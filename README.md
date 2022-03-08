@@ -1,0 +1,3 @@
+# Typescript
+
+FahadLabs Typescript classes.
